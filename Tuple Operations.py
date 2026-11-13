@@ -1,0 +1,12 @@
+t1 = (23,89,100,'a','cat',69,145)
+print(t1)
+t2 = (23,89,100,898,45,62)
+print(t2)
+t3 = (98,)
+t2 = t2+t3
+print(t2)
+print(type(t3))
+t4 = (10)
+print(t4)
+print(type(t4))
+print(t2[0:3])

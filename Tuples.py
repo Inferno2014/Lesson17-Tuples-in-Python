@@ -1,0 +1,6 @@
+t1 = (23,89,100)
+print(t1)
+print(t1[0:2])
+print(t1[2])
+print(len(t1))
+print(type(t1))
